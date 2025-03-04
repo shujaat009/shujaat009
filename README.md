@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi there, <br><br>🔭  I’m currently working on something cool <br>🧐  Looking to collaborate on AI Agent projects<br>🌱  I’m currently learning Machine Learning algorithms and LLMs<br>💬  Ask me anything related to Java/Python<br>⚡  Fun fact: Techie & Gym freak  😎
+🔭  I’m currently working on something cool <br>🧐  Looking to collaborate on AI Agent projects<br>🌱  I’m currently learning Machine Learning algorithms and LLMs<br>💬  Ask me anything related to Java/Python<br>⚡  Fun fact: Techie & Gym freak  😎
 
 
 ## 🌐 Socials:
